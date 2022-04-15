@@ -220,6 +220,12 @@
 /processorParam:DebugMode=Auto
 /build:Effects/DebugTexture.fx
 
+#begin Effects/DeferredRendering.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:Effects/DeferredRendering.fx
+
 #begin Effects/EnvironmentMap.fx
 /importer:EffectImporter
 /processor:EffectProcessor
